@@ -11,12 +11,7 @@ I'm a passionate **Backend Developer** with a love for crafting efficient and sc
 - 💾 **Database Expertise**: PostgreSQL, MySQL
 - 🌐 **Dev Tools**: Git, VS Code, Powerlevel10k (Oh My Zsh)
 - 🔗 **Other Skills**: WebSocket, REST API, Authentication Systems (Laravel Passport), Bank Integrations
-
----
-
-## 🐍 GitHub Snake Animation
-![Snake animation](https://github.com/javlonbek16/javlonbek16/blob/output/github-contribution-grid-snake.svg)
-
+\\
 ---
 ## 📈 GitHub Stats
 
