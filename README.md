@@ -4,6 +4,10 @@
 
 I'm a passionate **Backend Developer** with a love for crafting efficient and scalable solutions. Here's a glimpse into what I do:
 
+![Animated Text](https://media.giphy.com/media/3o7btVG1Gk1VxjyjHY/giphy.gif)
+> **"Code. Debug. Repeat."**  
+> – Javlonbek, the Backend Maestro 🎶
+
 ---
 
 ## 🚀 About Me
@@ -33,9 +37,6 @@ I'm a passionate **Backend Developer** with a love for crafting efficient and sc
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=javlonbek16&theme=react-dark)
 
 ---
 ## 🌐 Connect with Me
