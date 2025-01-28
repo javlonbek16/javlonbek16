@@ -35,13 +35,6 @@ I'm a passionate **Backend Developer** with a love for crafting efficient and sc
 
 ---
 
-## 🌟 Fun Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javlonbek16&theme=radical)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=javlonbek16)
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourProfile)
