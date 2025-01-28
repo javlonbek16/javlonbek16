@@ -14,6 +14,10 @@ I'm a passionate **Backend Developer** with a love for crafting efficient and sc
 
 ---
 
+## 🐍 GitHub Snake Animation
+![Snake animation](https://github.com/javlonbek16/javlonbek16/blob/output/github-contribution-grid-snake.svg)
+
+---
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=javlonbek16&show_icons=true&theme=radical)
