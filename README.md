@@ -7,7 +7,7 @@ I'm a passionate **Backend Developer** with a love for crafting efficient and sc
 ---
 
 ## 🚀 About Me
-- 🔧 **Languages & Frameworks**: Laravel, FastAPI, Node.js, Express.js, NestJS, React, TypeScript
+- 🔧 **Languages & Frameworks**: Laravel, Node.js, Express.js, NestJS, React, TypeScript
 - 🎨 **Frontend Skills**: HTML, CSS, Bootstrap, Tailwind CSS
 - 💾 **Database Expertise**: PostgreSQL, MySQL
 - 🌐 **Dev Tools**: Git, VS Code, Powerlevel10k (Oh My Zsh)
