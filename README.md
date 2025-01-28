@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Javlonbek! 👋
 
 ![Welcome Banner](https://user-images.githubusercontent.com/placeholder-banner.gif)
 
@@ -17,8 +17,8 @@ I'm a passionate **Backend Developer** with a love for crafting efficient and sc
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=javlonbek16&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javlonbek16&layout=compact&theme=radical)
 
 ---
 
@@ -37,8 +37,8 @@ I'm a passionate **Backend Developer** with a love for crafting efficient and sc
 
 ## 🌟 Fun Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=YourGitHubUsername)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javlonbek16&theme=radical)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=javlonbek16)
 
 ---
 
