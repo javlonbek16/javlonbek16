@@ -35,6 +35,9 @@ I'm a passionate **Backend Developer** with a love for crafting efficient and sc
 
 ---
 
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=javlonbek16&theme=react-dark)
+
+---
 ## 🌐 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/javlonbek16)
