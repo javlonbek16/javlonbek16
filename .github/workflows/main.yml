@@ -27,15 +27,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Create output branch if it does not exist
-        run: |
-          git fetch
-          git checkout -b output || git checkout output
-
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push github-contribution-grid-snake.svg to the GitHub Pages branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
+          target_branch: output  # This is the branch used for GitHub Pages
           build_dir: dist
           force: true
         env:
