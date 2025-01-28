@@ -13,7 +13,7 @@ I'm a passionate **Backend Developer** with a love for crafting efficient and sc
 - 🔗 **Other Skills**: WebSocket, REST API, Authentication Systems (Laravel Passport), Bank Integrations
 ---
 ![Snake animation]
-(https://raw.githubusercontent.com/javlonbek16/javlonbek16/output/github-contribution-grid-snake-dark.svg)
+https://raw.githubusercontent.com/javlonbek16/javlonbek16/output/github-contribution-grid-snake-dark.svg
 ---
 ## 📈 GitHub Stats
 
