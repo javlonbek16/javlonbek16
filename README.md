@@ -1,5 +1,6 @@
 # Hi there, I'm Javlonbek! 👋
 ![Welcome Banner](https://media.giphy.com/media/Id6dC0GQOOzPMXgcPv/giphy.gif?cid=ecf05e47i56fyf6e1cce1qsclf6mres13grvvp0ueoab27ut&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+---
 I'm a passionate **Backend Developer** with a love for crafting efficient and scalable solutions. Here's a glimpse into what I do:
 
 ---
